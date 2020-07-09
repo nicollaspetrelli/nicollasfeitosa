@@ -1,4 +1,12 @@
-### Hi there 👋
+## Bem-vindo ao meu cantinho ^^
+
+Meu nome é Nicollas Feitosa, mas prefiro que me chamem de "Nick", também sou conhecido como "Sonic" ou "SonicPlays" no universo dos games! Meu mundo é a tecnologia e os games não há mais nada que eu goste mais do que isso!
+
+Desde pequeno eu já era um mero fascinado por tecnologia, aprendi tudo que sei até hoje praticamente sozinho, claro alguns dos cursos que fiz me ajudaram a lapidar meu conhecimento sobre determinados assuntos! Porém eu não paro por aqui, estou sempre em processo de aprendizagem em uma linguagem nova, cada conhecimento é uma conquista, adoro aprender sobre exatamente qualquer assunto de tecnologia seja hardware ou software, quando se trata desse assunto sou entusiasta em tudo!
+
+> [Twitch](https://www.twitch.com/nicollasfeitosa)
+> [Discord](https://www.nicollasfeitosa.com/discord)
+> [Site Pessoal](https://www.nicollasfeitosa.com/)
 
 <!--
 **nicollasfeitosa/nicollasfeitosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
