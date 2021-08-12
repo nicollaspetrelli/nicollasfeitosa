@@ -1,4 +1,11 @@
-## Bem-vindo ao meu cantinho ^^
+## Oiii! Eu sou o Nicollas (Nick) ^^
+
+<div>
+    <a href="https://github.com/nicollasfeitosa">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicollasfeitosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=3393FF"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasfeitosa&layout=compact&langs_count=7&theme=dracula&title_color=3393FF"/>
+    </a>
+</div>
 
 Meu nome é Nicollas Feitosa, mas prefiro que me chamem de "Nick", também sou conhecido como "Sonic" ou "SonicPlays" no universo dos games! Meu mundo é a tecnologia e os games não há mais nada que eu goste mais do que isso!
 
