@@ -1,24 +1,7 @@
-## Oiii! Eu sou o Nicollas (Nick) ^^
+## Oi! Eu sou o Nick!
 
-<div>
-    <a href="https://github.com/nicollasfeitosa">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicollasfeitosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=3393FF"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasfeitosa&layout=compact&langs_count=7&theme=dracula&title_color=3393FF"/>
-    </a>
-</div>
+- 🔭 I’m currently working on microservices
+- 💬 Ask me about anything of technology
+- 📫 How to reach me: contact@nicollas.dev
+- ⚡ Fun fact: I started programming because i wanted a Minecraft server.
 
-
-<!--
-**nicollasfeitosa/nicollasfeitosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
